@@ -185,3 +185,64 @@ body{
     width: 1170px;
     margin: 0 auto;
 }
+
+
+/* sacdeli gakvetili4 */
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.tve{
+    color: rgb(239, 6, 6);
+    font-size: 30px;
+}
+.title-index{
+    font-size: 55px;
+    color: red;
+    border: #91ff00 2px solid;
+    display: inline-block;
+}
+
+
+.poto-index{
+    width: 330px;
+    height: 400px;
+    vertical-align: top;
+
+}
+.box-2{
+    width: 920px;
+    background-color: rgb(8, 148, 101);
+    height: 400px;
+    display: inline-block;
+    font-size: 20px;
+    color: #91ff00;
+    padding: 20px;
+    margin: 0 15px;
+}
+.para{
+    padding: 15px;
+}
+
+/* conatct page */
+.section-contact{
+   background-color: #d32727;
+}
+.div-wraper{
+    width: 1177px;
+    height: 900px;
+    margin: 0 auto;
+}
+.left-div{
+    display: inline-block;
+    vertical-align: top;
+    font-size: larger;
+    margin-right: 20px;
+}
+.right-div{
+    display: inline-block;
+}
